@@ -1,0 +1,7 @@
+Estoy orientando el análisis del dataset al estudio de las condiciones climáticas y cómo afectan estas a los viajes, básicamente la cantidad.
+Para eso, se me ocurrieron estas preguntas para responder
+
+.Cantidad de viajes que se hicieron para cada uno de los días del dataset
+.Estaciones más populares (Ya resuelto en el notebook TP1-Mariano)
+.Duración promedio de los viajes según temperatura
+.Ruta más popular (Cuál par de paradas aparece con más frecuencia en trip.csv)
